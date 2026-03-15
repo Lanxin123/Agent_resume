@@ -584,6 +584,14 @@ h3 {
   color: var(--ink-soft);
 }
 
+.site-credit-text {
+  margin: 0.78rem 0 0.1rem;
+  text-align: center;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  color: color-mix(in oklab, var(--ink-soft) 88%, white);
+}
+
 .cta-actions {
   margin-top: 0.8rem;
   display: flex;
@@ -798,22 +806,29 @@ h3 {
   }
 
   .skill-tree {
-    grid-template-columns: 1fr;
+    --branch-gap: 12px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.45rem 0.72rem;
+    padding-top: 0.55rem;
   }
 
   .skill-trunk {
-    display: none;
+    display: block;
   }
 
   .skill-node,
   .skill-node.left,
   .skill-node.right {
-    justify-self: start;
+    max-width: 100%;
+    font-size: 0.75rem;
+    line-height: 1.2;
+    padding: 0.3rem 0.52rem;
+    white-space: normal;
     transform: none;
   }
 
   .skill-node::before {
-    display: none;
+    display: block;
   }
 }
 
