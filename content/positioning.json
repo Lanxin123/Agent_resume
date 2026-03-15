@@ -1,7 +1,7 @@
 {
     "heroValueZh":  "使用 AI Agent，把需求快速变成可交付产品",
     "heroValueEn":  "Use AI agents to turn requirements into shippable products",
-    "heroSubZh":  "聚焦 Agent 执行链设计、Prompt 优化与通用 LLM Skill 封装，支持从原型到上线交付。",
+    "heroSubZh":  "打造团队高效工作流，聚焦 Agent 执行链设计、Prompt 优化与通用 LLM Skill 封装，支持从原型到上线交付。",
     "heroSubEn":  "Focused on agent workflow design, prompt optimization, and reusable LLM skills from prototype to production.",
     "capabilities":  [
                          {
@@ -47,10 +47,18 @@
                           "approachEn":  "Package reusable LLM skills and leverage OpenClaw setup/integration experience when needed",
                           "resultZh":  "缩短新场景接入周期，提升团队复用效率",
                           "resultEn":  "Shorten onboarding time for new scenarios and improve team reuse efficiency"
+                      },
+                      {
+                          "demandZh":  "内容生产与营销素材自动化",
+                          "demandEn":  "Automated content and marketing asset production",
+                          "approachZh":  "基于 COZE 工作流编排内容任务，自动生成短视频脚本、宣传图与发布素材，串联审核与分发流程",
+                          "approachEn":  "Use COZE workflows to generate video scripts, promo creatives, and publishing assets with review and distribution steps",
+                          "resultZh":  "缩短内容制作周期，提升营销产出效率与团队协同速度",
+                          "resultEn":  "Shorten content cycles and improve marketing throughput with better team coordination"
                       }
                   ],
     "cta":  {
-                "titleZh":  "如果你需要把 AI 想法快速变成产品，我们可以聊聊",
+                "titleZh":  "打造AI工作流，agent垂直开发，优化团队效率，我们可以聊聊",
                 "titleEn":  "If you need to turn AI ideas into shipped products, let\u0027s connect",
                 "subZh":  "支持项目协作、技术方案评估与工程落地实施。",
                 "subEn":  "Available for solution consulting and production delivery.",

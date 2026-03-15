@@ -63,6 +63,28 @@
       "link": ""
     },
     {
+      "name": "一句话生成并部署网站",
+      "descriptionZh": "输入一句需求即可自动生成页面、完成样式编排与构建发布，支持快速迭代和版本回滚，适合创业小项目冷启动。",
+      "descriptionEn": "Generate and deploy a website from one sentence, with fast iteration and rollback support for startup MVP launches.",
+      "tags": [
+        "创业",
+        "AI建站",
+        "自动部署"
+      ],
+      "link": ""
+    },
+    {
+      "name": "SEO 自动生成与发布工具",
+      "descriptionZh": "基于关键词自动生成文章并按策略发布，联动站点结构优化与数据回看，持续提升自然流量效率，适合创业团队低成本增长。",
+      "descriptionEn": "Auto-generate SEO articles from keywords and publish by strategy, with structure optimization and analytics feedback loops.",
+      "tags": [
+        "创业",
+        "SEO",
+        "自动发布"
+      ],
+      "link": ""
+    },
+    {
       "name": "微信 / 抖音小游戏工程化交付",
       "descriptionZh": "从 0 到 1 完成小游戏技术方案、平台接入、发布流程和性能优化。",
       "descriptionEn": "Delivered mini-game projects end-to-end including platform integration and performance optimization.",

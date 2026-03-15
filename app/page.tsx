@@ -32,7 +32,7 @@ export default async function HomePage({ searchParams }: PageProps) {
         "Write technical docs and examples to support team adoption"
       ];
 
-  const topCases = resume.projects.slice(0, 3);
+  const topCases = resume.projects.slice(0, 5);
   const trustExperience = resume.experience.slice(0, 2);
 
   return (
@@ -166,6 +166,7 @@ export default async function HomePage({ searchParams }: PageProps) {
           <h2>{isZh ? positioning.cta.titleZh : positioning.cta.titleEn}</h2>
           <p>{isZh ? positioning.cta.subZh : positioning.cta.subEn}</p>
         </section>
+        <p className="site-credit-text">{isZh ? "本网站由AI开发部署，git管理" : "This site is developed and deployed with AI, managed by Git."}</p>
       </ScrollRevealSection>
     </SiteShell>
   );
