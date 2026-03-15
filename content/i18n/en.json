@@ -1,0 +1,32 @@
+{
+  "brand": "AI Delivery Studio",
+  "tagline": "OpenClaw · CodeX · AI Agent",
+  "nav": {
+    "home": "Overview",
+    "resume": "Capabilities",
+    "projects": "Cases",
+    "media": "Media",
+    "contact": "Contact"
+  },
+  "home": {
+    "headline": "Welcome to my website",
+    "subtitle": "Focused on AI engineering delivery",
+    "ctaResume": "Capabilities",
+    "ctaProjects": "Cases"
+  },
+  "section": {
+    "experience": "Capability & Credibility",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Case Results",
+    "videos": "Demo Videos",
+    "contact": "Contact"
+  },
+  "misc": {
+    "language": "Language",
+    "empty": "No data yet",
+    "unavailable": "Unavailable",
+    "privacyMasked": "Hidden",
+    "location": "Location"
+  }
+}

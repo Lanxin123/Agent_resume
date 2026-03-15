@@ -1,0 +1,32 @@
+{
+  "brand": "AI 交付工作室",
+  "tagline": "OpenClaw · CodeX · AI Agent",
+  "nav": {
+    "home": "概览",
+    "resume": "能力",
+    "projects": "案例",
+    "media": "演示",
+    "contact": "联系"
+  },
+  "home": {
+    "headline": "你好，欢迎来到我的个人站点",
+    "subtitle": "聚焦 AI 工程化交付",
+    "ctaResume": "查看能力",
+    "ctaProjects": "查看案例"
+  },
+  "section": {
+    "experience": "能力与背书",
+    "education": "教育背景",
+    "skills": "技术能力",
+    "projects": "案例成果",
+    "videos": "演示视频",
+    "contact": "联系合作"
+  },
+  "misc": {
+    "language": "语言",
+    "empty": "暂无数据",
+    "unavailable": "暂不可用",
+    "privacyMasked": "已隐藏",
+    "location": "所在地"
+  }
+}

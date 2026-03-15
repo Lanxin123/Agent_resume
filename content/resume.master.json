@@ -1,0 +1,174 @@
+{
+  "profile": {
+    "name": "宋柏慧",
+    "titleZh": "AI 应用开发 / 客户端负责人",
+    "titleEn": "AI Application Engineer / Client Lead",
+    "summaryZh": "面向 Agent 工程岗位，具备从需求拆解、执行链设计到上线交付的完整实践，重点关注 Prompt 优化与通用 LLM Skill 封装。",
+    "summaryEn": "Targeted for Agent engineering roles with end-to-end delivery from requirement breakdown to workflow design and launch, focused on prompt optimization and reusable LLM skill packaging.",
+    "location": "吉林省长春市"
+  },
+  "experience": [
+    {
+      "company": "安睿网络",
+      "roleZh": "主程",
+      "roleEn": "Principal Engineer",
+      "start": "2022-09",
+      "end": "2026-3",
+      "highlightsZh": [
+        "负责 AI 游戏研发与工程体系搭建，推动 OpenClaw/CodeX 在开发流程中的实践。",
+        "落地 HybridCLR + YooAsset + UI 框架 + Luban 的可迭代架构。"
+      ],
+      "highlightsEn": [
+        "Led AI game engineering delivery and workflow integration with OpenClaw/CodeX.",
+        "Built a scalable architecture with HybridCLR, YooAsset, UI framework, and Luban."
+      ]
+    },
+    {
+      "company": "多益网络",
+      "roleZh": "客户端开发工程师",
+      "roleEn": "Client Engineer",
+      "start": "2019-02",
+      "end": "2022-06",
+      "highlightsZh": [
+        "负责核心玩法与客户端架构，完成多平台上线与性能优化。",
+        "沉淀从开发、联调、打包到发布的标准流程。"
+      ],
+      "highlightsEn": [
+        "Developed core gameplay and client architecture with multi-platform delivery.",
+        "Standardized full pipeline from development and QA to packaging and release."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "长春工业大学",
+      "degreeZh": "本科",
+      "degreeEn": "Bachelor",
+      "majorZh": "软件工程",
+      "majorEn": "Software Engineering",
+      "start": "2015-09",
+      "end": "2019-06"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI 游戏 Demo（Unity）",
+      "descriptionZh": "独立完成 AI 游戏 Demo 设计与开发，约 99% 代码由 AI 协作生成并人工优化验证。",
+      "descriptionEn": "Built a Unity AI game demo with AI-assisted coding and human quality refinement.",
+      "tags": [
+        "Unity",
+        "AI Agent",
+        "CodeX"
+      ],
+      "link": ""
+    },
+    {
+      "name": "微信 / 抖音小游戏工程化交付",
+      "descriptionZh": "从 0 到 1 完成小游戏技术方案、平台接入、发布流程和性能优化。",
+      "descriptionEn": "Delivered mini-game projects end-to-end including platform integration and performance optimization.",
+      "tags": [
+        "Mini Game",
+        "Optimization",
+        "Release"
+      ],
+      "link": ""
+    },
+    {
+      "name": "OpenClaw + CodeX 开发流水线实践",
+      "descriptionZh": "将 OpenClaw 与 CodeX 引入日常研发流程，覆盖需求拆解、代码实现、问题修复与迭代提效。",
+      "descriptionEn": "Integrated OpenClaw and CodeX into daily engineering workflow for delivery acceleration.",
+      "tags": [
+        "OpenClaw",
+        "CodeX",
+        "AI Workflow"
+      ],
+      "link": ""
+    },
+    {
+      "name": "安卓视觉识别辅助工具",
+      "descriptionZh": "基于 Android 与 OpenCV 的实用工具开发，验证图像识别在业务场景中的可用性。",
+      "descriptionEn": "Built an Android + OpenCV utility to validate practical computer vision scenarios.",
+      "tags": [
+        "Android",
+        "OpenCV",
+        "Computer Vision"
+      ],
+      "link": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI Agent Engineering",
+      "level": "Advanced"
+    },
+    {
+      "name": "LangChain",
+      "level": "Intermediate"
+    },
+    {
+      "name": "LlamaIndex",
+      "level": "Intermediate"
+    },
+    {
+      "name": "AutoGen",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Prompt Engineering",
+      "level": "Advanced"
+    },
+    {
+      "name": "Chain of Thought",
+      "level": "Intermediate"
+    },
+    {
+      "name": "ReAct",
+      "level": "Intermediate"
+    },
+    {
+      "name": "LLM Skill Packaging",
+      "level": "Intermediate"
+    },
+    {
+      "name": "CodeX",
+      "level": "Advanced"
+    },
+    {
+      "name": "OpenClaw Setup/Integration",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Unity3D",
+      "level": "Advanced"
+    },
+    {
+      "name": "C#",
+      "level": "Advanced"
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate"
+    },
+    {
+      "name": "JS",
+      "level": "Intermediate"
+    }
+  ],
+  "contact": {
+    "email": "337544818@qq.com",
+    "phone": "17649831423",
+    "wechat": "17649831423",
+    "github": "",
+    "linkedin": ""
+  },
+  "privacy": {
+    "showEmail": true,
+    "showPhone": true,
+    "showWechat": true,
+    "showLocation": true
+  }
+}

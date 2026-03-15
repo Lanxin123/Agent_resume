@@ -1,0 +1,62 @@
+{
+    "heroValueZh":  "使用 AI Agent，把需求快速变成可交付产品",
+    "heroValueEn":  "Use AI agents to turn requirements into shippable products",
+    "heroSubZh":  "聚焦 Agent 执行链设计、Prompt 优化与通用 LLM Skill 封装，支持从原型到上线交付。",
+    "heroSubEn":  "Focused on agent workflow design, prompt optimization, and reusable LLM skills from prototype to production.",
+    "capabilities":  [
+                         {
+                             "titleZh":  "Agent 开发与执行链设计",
+                             "titleEn":  "Agent Workflow Design & Delivery",
+                             "summaryZh":  "了解并实践 LangChain、LlamaIndex、AutoGen 等框架，面向业务场景设计可执行 Agent 链路。",
+                             "summaryEn":  "Hands-on with LangChain, LlamaIndex, and AutoGen to design executable agent workflows for business scenarios."
+                         },
+                         {
+                             "titleZh":  "Prompt 工程与推理策略",
+                             "titleEn":  "Prompt Engineering & Reasoning Strategies",
+                             "summaryZh":  "熟悉 Prompt Engineering、Chain of Thought、ReAct 等方法，持续优化模型响应质量与稳定性。",
+                             "summaryEn":  "Apply Prompt Engineering, Chain of Thought, and ReAct to improve response quality and reliability."
+                         },
+                         {
+                             "titleZh":  "通用 LLM Skill 封装与复用",
+                             "titleEn":  "Reusable LLM Skill Packaging",
+                             "summaryZh":  "封装文本生成、SQL 辅助、数据分析等通用能力，支持平台级复用与快速扩展。",
+                             "summaryEn":  "Package reusable skills such as text generation, SQL assistance, and data analysis for scalable platform reuse."
+                         }
+                     ],
+    "solutions":  [
+                      {
+                          "demandZh":  "多步骤业务任务自动化",
+                          "demandEn":  "Automating multi-step business tasks",
+                          "approachZh":  "基于 LangChain/LlamaIndex 设计 Agent 执行链，接入工具与知识源形成可追踪流程",
+                          "approachEn":  "Design agent execution chains with LangChain/LlamaIndex and connect tools and knowledge sources",
+                          "resultZh":  "实现任务自动执行与关键环节可观测，降低人工切换成本",
+                          "resultEn":  "Enable automated execution with better observability and lower manual overhead"
+                      },
+                      {
+                          "demandZh":  "模型响应质量与稳定性提升",
+                          "demandEn":  "Improving response quality and stability",
+                          "approachZh":  "持续优化 Prompt，结合 Chain of Thought 与 ReAct 策略并建立评测回归",
+                          "approachEn":  "Continuously optimize prompts with CoT and ReAct strategies plus evaluation regression",
+                          "resultZh":  "提升响应一致性与可解释性，减少线上波动",
+                          "resultEn":  "Improve consistency and explainability while reducing production volatility"
+                      },
+                      {
+                          "demandZh":  "平台能力复用与快速扩展",
+                          "demandEn":  "Reusable platform capabilities and rapid expansion",
+                          "approachZh":  "封装通用 LLM Skill（文本生成、SQL 辅助、数据分析），并具备 OpenClaw 搭建与接入经验",
+                          "approachEn":  "Package reusable LLM skills and leverage OpenClaw setup/integration experience when needed",
+                          "resultZh":  "缩短新场景接入周期，提升团队复用效率",
+                          "resultEn":  "Shorten onboarding time for new scenarios and improve team reuse efficiency"
+                      }
+                  ],
+    "cta":  {
+                "titleZh":  "如果你需要把 AI 想法快速变成产品，我们可以聊聊",
+                "titleEn":  "If you need to turn AI ideas into shipped products, let\u0027s connect",
+                "subZh":  "支持项目协作、技术方案评估与工程落地实施。",
+                "subEn":  "Available for solution consulting and production delivery.",
+                "primaryZh":  "立即联系",
+                "primaryEn":  "Contact Now",
+                "secondaryZh":  "查看案例",
+                "secondaryEn":  "View Cases"
+            }
+}

@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.tmp_*
+.DS_Store
+Thumbs.db
+
+# Local source artifacts / privacy-sensitive originals
+data-source/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
