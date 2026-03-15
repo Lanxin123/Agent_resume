@@ -125,11 +125,13 @@ a {
   gap: 0.45rem;
 }
 
-.site-nav a:hover {
-  border-color: color-mix(in oklab, var(--primary) 60%, white);
-  color: #fff;
-  background: linear-gradient(140deg, var(--primary), var(--secondary));
-  transform: translateX(-2px);
+@media (hover: hover) and (pointer: fine) {
+  .site-nav a:hover {
+    border-color: color-mix(in oklab, var(--primary) 60%, white);
+    color: #fff;
+    background: linear-gradient(140deg, var(--primary), var(--secondary));
+    transform: translateX(-2px);
+  }
 }
 
 .site-nav a.active {

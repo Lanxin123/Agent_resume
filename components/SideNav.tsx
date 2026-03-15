@@ -57,7 +57,12 @@ export function SideNav({ items }: SideNavProps) {
   return (
     <nav className="site-nav side-nav" aria-label="Section Navigation">
       {items.map((item) => (
-        <a key={item.id} href={`#${item.id}`} className={active === item.id ? "active" : ""}>
+        <a
+          key={item.id}
+          href={`#${item.id}`}
+          className={active === item.id ? "active" : ""}
+          onClick={() => setActive(item.id)}
+        >
           <span className="nav-dot" />
           <span>{item.label}</span>
         </a>
